@@ -8,4 +8,4 @@ I've messed around to some extent in C, C#, Perl, PHP, and Python. Although asse
 
 My ultimate goal is to move into a professional red team.
 
-Contact me: [redskalblog@gmail.com](redskalblog@gmail.com)
+Contact me: [redskalblog@gmail.com](mailto:redskalblog@gmail.com)
